@@ -45,8 +45,7 @@ Below is the steps and guide to set up a CI/CD workflow using GitHub Actions and
     - initialize a Node.js project
   2.npm-init
 
-- create a simple server using Express.js to serve a static web page.
-  
+- Set up a basic Express.js server that delivers a static web page to users. This involves creating a small server application using Express, configuring it to handle incoming requests, and serving an HTML file or other static content from a designated folder when the server is accessed.
 2.express
 
 - Save 
