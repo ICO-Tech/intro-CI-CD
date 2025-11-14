@@ -1,0 +1,25 @@
+{
+  "name": "intro-ci-cd",
+  "version": "1.0.0",
+  "description": "CI/CD automates building, testing, and deploying applications for faster, reliable delivery. Using GitHub Actions, developers can define workflows to integrate, test, and deploy code automatically on every push or pull request, ensuring seamless collaboration, quality, and efficient web app deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICO-Tech/intro-CI-CD.git"
+  },
+  "author": "ICO-Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICO-Tech/intro-CI-CD/issues"
+  },
+  "homepage": "https://github.com/ICO-Tech/intro-CI-CD#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
